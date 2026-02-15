@@ -3,7 +3,7 @@
 ## Overview
 
 **Team**: Serendipity  
-**Team Leader**: Nilay Kumar  
+**Team Members**: Nilay Kumar, Riddhima Chaturvedi
 **Problem Statement**: AI for Learning & Developer Productivity
 
 EduMap is an AI-powered localized exam intelligence platform designed to support Indian college students in mastering vast syllabi and navigating high-stakes examinations. It addresses critical academic barriers such as unstructured preparation, generic resources, and the lack of personalized guidance at the university level through a data-backed, strategic "exam command center".
@@ -852,3 +852,4 @@ First predictive exam intelligence platform built specifically for Indian univer
 **Document Version**: 2.0  
 **Last Updated**: February 15, 2024  
 **Status**: Final - Ready for Implementation
+
