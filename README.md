@@ -1,4 +1,4 @@
-# EduMap – AI Exam Tutor  
+# EduMap   
 AWS-Native Generative AI Powered Learning Platform
 
 ---
